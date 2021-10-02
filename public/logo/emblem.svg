@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4199219"
+     inkscape:cx="190.85557"
+     inkscape:cy="255.64787"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1180"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.18,0,1 @ F,1,0,1,0,0.18,0,1 @ F,1,0,1,0,0.18,0,1 @ F,1,0,1,0,0.18,0,1 @ F,1,0,1,0,0.18,0,1 @ F,1,0,1,0,0.18,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="18"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1177"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1027"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect993"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path11505"
+       style="fill:#000000;fill-opacity:0.984314;stroke-width:3.76476;stroke-linejoin:round"
+       inkscape:transform-center-y="18.74598"
+       d="M 25.711321,16.302921 A 13.230684,13.230684 0 0 0 14.253212,36.15022 l 32.469116,56.237231 9.552899,16.545629 a 13.230685,13.230685 0 0 0 22.916214,0 L 111.66055,52.695843 121.21346,36.15022 A 13.230685,13.230685 0 0 0 109.75535,16.302921 H 44.817119 Z m 2.464687,8.790523 h 31.114432 48.61938 a 5.0525541,5.0525541 0 0 1 4.37586,7.579057 L 98.907443,55.845333 H 86.206552 c 3.88449,-6.72817 7.769065,-13.456302 11.653555,-20.184474 H 79.537575 C 75.653054,42.389015 71.768542,49.117177 67.884021,55.845333 63.999501,49.117177 60.114986,42.389015 56.230469,35.660859 H 38.480844 c 9.896541,17.141407 19.793085,34.282822 29.68963,51.424227 3.17987,-5.507721 6.359602,-11.015519 9.539471,-16.523249 H 90.410838 L 72.418033,101.72402 a 5.0525543,5.0525543 0 0 1 -8.751726,0 L 48.108342,74.776572 23.800142,32.672501 a 5.052554,5.052554 0 0 1 4.375866,-7.579057 z" />
+  </g>
+</svg>
