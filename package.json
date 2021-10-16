@@ -1,6 +1,9 @@
 {
   "name": "openvault",
   "version": "1.0.0-alpha1",
+  "license": "ISC",
+  "repository": "github:ricardobalk/openvault",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
