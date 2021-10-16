@@ -11,5 +11,5 @@ export default Home;
 
 <template>
   <Image alt="OpenVault" src="/logo/emblem-with-text.svg" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite + Nuxt 3" />
 </template>

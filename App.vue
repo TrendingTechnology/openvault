@@ -1,12 +1,18 @@
 <script setup lang="ts">
-import Home from './views/Home.vue'
+import Home from './layouts/Home.vue'
 </script>
 
 <template>
-  <Home />
+  <div id="app">
+    <Home />
+  </div>
 </template>
 
-<style>
+<style lang="css">
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
